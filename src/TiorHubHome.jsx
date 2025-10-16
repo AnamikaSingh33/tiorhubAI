@@ -2,6 +2,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Rocket, Sparkles, Paintbrush, BarChart3, Bot, Search } from 'lucide-react';
 import logo from './assets/logo.png';
+import aboutHero from './assets/about-hero.png';
+
 
 // ✅ Local reusable Button component
 const Button = ({ children, className = '', ...props }) => (
@@ -69,7 +71,7 @@ export default function TiorHubHome() {
       <section id="about" className="py-20 px-6 bg-white border-t-4 border-black">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
           <motion.img
-            src="./assets/about-hero.png"
+            src={aboutHero}
             alt="About TiorHub.ai"
             className="rounded-2xl border-4 border-black shadow-comic"
             whileHover={{ scale: 1.05 }}
