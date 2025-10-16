@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/tiorhubAI/static/css/main.5dd502ff.css",
-    "main.js": "/tiorhubAI/static/js/main.e4491f47.js",
+    "main.js": "/tiorhubAI/static/js/main.cd9bc65f.js",
     "static/js/453.0d10754a.chunk.js": "/tiorhubAI/static/js/453.0d10754a.chunk.js",
+    "static/media/about-hero.png": "/tiorhubAI/static/media/about-hero.3a0ccfdf993cbdbe71c6.png",
     "static/media/logo.png": "/tiorhubAI/static/media/logo.031e98f5fd28cfd4c071.png",
     "index.html": "/tiorhubAI/index.html",
     "static/media/comic-burst.svg": "/tiorhubAI/static/media/comic-burst.bfee65b590efdda01346.svg",
     "main.5dd502ff.css.map": "/tiorhubAI/static/css/main.5dd502ff.css.map",
-    "main.e4491f47.js.map": "/tiorhubAI/static/js/main.e4491f47.js.map",
+    "main.cd9bc65f.js.map": "/tiorhubAI/static/js/main.cd9bc65f.js.map",
     "453.0d10754a.chunk.js.map": "/tiorhubAI/static/js/453.0d10754a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dd502ff.css",
-    "static/js/main.e4491f47.js"
+    "static/js/main.cd9bc65f.js"
   ]
 }
