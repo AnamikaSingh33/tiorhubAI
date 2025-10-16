@@ -2,7 +2,8 @@
   "name": "tiorhub-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AnamikaSingh33/tiorhubAI",
+  "homepage": "https://anamikasingh33.github.io/tiorhubAI",
+
 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
