@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AnamikaSingh33/tiorhubAI/static/css/main.33f36aac.css",
-    "main.js": "/AnamikaSingh33/tiorhubAI/static/js/main.f904ba69.js",
-    "static/js/453.0d10754a.chunk.js": "/AnamikaSingh33/tiorhubAI/static/js/453.0d10754a.chunk.js",
-    "static/media/logo.png": "/AnamikaSingh33/tiorhubAI/static/media/logo.031e98f5fd28cfd4c071.png",
-    "index.html": "/AnamikaSingh33/tiorhubAI/index.html",
-    "static/media/comic-burst.svg": "/AnamikaSingh33/tiorhubAI/static/media/comic-burst.bfee65b590efdda01346.svg",
-    "main.33f36aac.css.map": "/AnamikaSingh33/tiorhubAI/static/css/main.33f36aac.css.map",
-    "main.f904ba69.js.map": "/AnamikaSingh33/tiorhubAI/static/js/main.f904ba69.js.map",
-    "453.0d10754a.chunk.js.map": "/AnamikaSingh33/tiorhubAI/static/js/453.0d10754a.chunk.js.map"
+    "main.css": "/tiorhubAI/static/css/main.5dd502ff.css",
+    "main.js": "/tiorhubAI/static/js/main.e4491f47.js",
+    "static/js/453.0d10754a.chunk.js": "/tiorhubAI/static/js/453.0d10754a.chunk.js",
+    "static/media/logo.png": "/tiorhubAI/static/media/logo.031e98f5fd28cfd4c071.png",
+    "index.html": "/tiorhubAI/index.html",
+    "static/media/comic-burst.svg": "/tiorhubAI/static/media/comic-burst.bfee65b590efdda01346.svg",
+    "main.5dd502ff.css.map": "/tiorhubAI/static/css/main.5dd502ff.css.map",
+    "main.e4491f47.js.map": "/tiorhubAI/static/js/main.e4491f47.js.map",
+    "453.0d10754a.chunk.js.map": "/tiorhubAI/static/js/453.0d10754a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33f36aac.css",
-    "static/js/main.f904ba69.js"
+    "static/css/main.5dd502ff.css",
+    "static/js/main.e4491f47.js"
   ]
 }
