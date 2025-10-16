@@ -69,11 +69,11 @@ export default function TiorHubHome() {
       <section id="about" className="py-20 px-6 bg-white border-t-4 border-black">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
           <motion.img
-  src="https://via.placeholder.com/500x350/FFD93D/000000?text=About+TiorHub.ai"
-  alt="About TiorHub.ai"
-  className="rounded-2xl border-4 border-black shadow-comic"
-  whileHover={{ scale: 1.05 }}
-/>
+            src="./assets/about-hero.png"
+            alt="About TiorHub.ai"
+            className="rounded-2xl border-4 border-black shadow-comic"
+            whileHover={{ scale: 1.05 }}
+          />
           <div>
             <h3 className="text-4xl font-black mb-4 text-red-500">Who We Are</h3>
             <p className="text-lg font-medium mb-4">
